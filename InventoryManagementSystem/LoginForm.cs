@@ -14,7 +14,7 @@ namespace InventoryManagementSystem
     {
         public LoginForm()
         {
-            InitializeComponent();  
+            InitializeComponent();   
         }
     }
 }
